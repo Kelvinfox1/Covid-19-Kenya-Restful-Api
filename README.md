@@ -21,7 +21,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 | Data                 | URL                                               |
 | -------------------- | ------------------------------------------------- |
-| Google sheets in CSV | <https://api.covid19Kenya.org/documentation/csv/> |
+| Google sheets in CSV | <https://docs.google.com/spreadsheets/d/1QbTHJx-ElzFBbpjMhwjEWdkM8UVUo_kEKcBdrHYsGJA/edit?usp=sharing> |
 
 > :rocket: Quick example : Apply the formula `=IMPORTDATA("https://api.covid19Kenya.org/csv/latest/County.csv")` in A1 cell of a Google Sheets to get the County data for analysis :)
 
